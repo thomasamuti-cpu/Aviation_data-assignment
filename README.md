@@ -74,6 +74,17 @@ In the original dataset, we had a total of 31 columns, of which 12 were selected
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 
+#### Dashboard Links
+The link to our interactive dashboard is: https://public.tableau.com/app/profile/thomas.amuti/viz/SummaryDashboardontheTopMostOperationalSafeandMechanicallyStableAirCraftMakes/SummaryDashboardontheTopMostOperationalSafeandMechanicallyStableAirCraftMakes?publish=yes
+
+The dashboard summarizes the top Aircraft Makes that are:
+
+1. Most operational based on engine type.
+
+2. Safest based on having the least total fatal injuries.
+
+3. Mechanically stable based on having a non-fatal injury severity.
+
 ## Conclusion
 In this notebook, we were able to suggest the most operational, safe and mechanically reliable plane for procurement for our company using data from the NTSB report of accidents from 1962 - 2023. From our dataset, it appears that the safest plane (one with the least number of accidents) were purposefully used for personal flights. These had the least number of fatal injuries, serious injuries while having a non-fatal injury severity and minor aircraft accidents. In addition to the above, if the company wishes to procure a plane:
 
