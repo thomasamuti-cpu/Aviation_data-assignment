@@ -70,9 +70,9 @@ In the original dataset, we had a total of 31 columns, of which 12 were selected
 
 ### Data Visualizations:
 ![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](image.png)
+![alt text](image.png)
+![alt text](image.png)
 
 #### Dashboard Links
 The link to our interactive dashboard is: https://public.tableau.com/app/profile/thomas.amuti/viz/SummaryDashboardontheTopMostOperationalSafeandMechanicallyStableAirCraftMakes/SummaryDashboardontheTopMostOperationalSafeandMechanicallyStableAirCraftMakes
