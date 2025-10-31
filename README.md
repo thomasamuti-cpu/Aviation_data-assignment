@@ -75,7 +75,7 @@ In the original dataset, we had a total of 31 columns, of which 12 were selected
 ![alt text](image-3.png)
 
 #### Dashboard Links
-The link to our interactive dashboard is: https://public.tableau.com/app/profile/thomas.amuti/viz/SummaryDashboardontheTopMostOperationalSafeandMechanicallyStableAirCraftMakes/SummaryDashboardontheTopMostOperationalSafeandMechanicallyStableAirCraftMakes?publish=yes
+The link to our interactive dashboard is: https://public.tableau.com/app/profile/thomas.amuti/viz/SummaryDashboardontheTopMostOperationalSafeandMechanicallyStableAirCraftMakes/SummaryDashboardontheTopMostOperationalSafeandMechanicallyStableAirCraftMakes
 
 The dashboard summarizes the top Aircraft Makes that are:
 
